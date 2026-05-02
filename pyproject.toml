@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "banklib"
+version = "1.0.0"
+description = "A simple file-based data storage system using custom delimiters"
+readme = "README.md"
+requires-python = ">=3.6"
+authors = [
+    {name = "Rain", email = "your-email@example.com"}
+]
+license = {text = "MIT"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
