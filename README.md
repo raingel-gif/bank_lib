@@ -62,8 +62,8 @@ print(all_data)
 
 ## Author
 
-Rain
+Rain Tolentino
 
 ## License
 
-MIT
+Nothing
